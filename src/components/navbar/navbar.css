@@ -1,0 +1,110 @@
+.navbar{
+    /* background-color: #f8f9fa; */
+    /* border-bottom: 1px solid #e9ecef; */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+    z-index: 1000;
+    transition: all 0.3s;
+    border-radius: 20px;
+    height: 80px;
+    margin: 20px;
+    padding: 0 ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+.login-btn{
+    background-color: var(--second-color);
+    color: white;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    padding: 10px 25px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.login-btn:hover{
+ background-color: #fff;
+    color: var(--main-color);
+}
+.nav-item a{ 
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 10px;
+    transition: all 0.3s;
+    position: relative;
+
+}
+.nav-item a:hover{
+    color: var(--second-color);
+}
+.nav-item a::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    background-color: var(--second-color);
+    bottom: -5px;
+    left: 0;
+    transform: scaleX(0); 
+    transition: transform 0.4s ease-out; 
+    transform-origin: bottom right;
+}
+.nav-item a:hover::after {
+    transform: scaleX(1); 
+    transform-origin: bottom right; 
+}
+a.nav-link{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bolder;
+    transition: all 0.3s;
+    
+}
+@media only screen and (max-width: 768px) {
+    .navbar{
+        height: 80px;
+        border-radius: 0;
+        margin: 0;
+
+    }
+    .login-btn{
+        font-size: 16px;
+        padding: 8px 12px;
+    }
+    .login-btn:hover{
+        font-size: 16px;
+    }
+    .nav-item a{
+        font-size: 16px;
+        margin-left: 5px;
+    }
+   .nav-img{
+       width: 100px;
+   }
+
+}
+
+.navbar.scrolled {
+    background: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+    .navbar.scrolled .nav-item a{
+        color: #000;
+    }
+
+
+    .custom-navbar {
+        background: white;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+      }
+      
+      .custom-navbar .nav-item a {
+        color: #000;
+      }

@@ -1,0 +1,190 @@
+{
+   "name": "test",
+   "home": "Home",
+   "about_us": "About ",
+   "us": "Us",
+   "careers": "Careers",
+   "services": {
+     "title": "Services",
+       
+        "Airline": "Airline & Railway Catering",
+        "Airline_description": "Elevate your passengers' journeys with delicious meals tailored to diverse tastes and dietary needs. Whether it's a short business trip or a long international journey, we offer fresh and varied options to enhance passengers' comfort.",
+       
+        "Event": "Event Catering",
+        "Event_description": "Impress your guests at any event, from small meetings to grand weddings. We provide customized menus for every occasion with elegant presentations. Our professional team can meet all your needs, including site selection and decor coordination." ,      
+       
+        "Logistics": "Logistics Services",
+        "Logistics_description": "Our extensive network and advanced logistics capabilities ensure safe and efficient transportation and storage of food. We guarantee that products reach their destinations on time and in excellent condition.",
+     
+        "Food": "Food Services",
+        "Food_description": "Explore a variety of options, from convenient ready-to-eat meals to sterilized meals and custom dishes. We prioritize quality and food safety to ensure a delightful dining experience."
+             
+     
+   },
+   "call_us": "Call Us",
+   "home_page": {
+     "video_caption": "Welcome To Abu Al Jadayel",
+     "video_subcaption": "Five Decades of Quality",
+     "video_description": "Because Food Is Essential For Every Event, We Make It Memorable!",
+     "our_brands_and_partners": {
+       "title": "Our Brands and Partners",
+       "brands": [
+         "Tajwal",
+         "Mutawafe for Pilgrims from Non-Arab African Countries Company",
+         "Abuljadayel for Food Industries"
+       ]
+     },
+     
+     "our_numbers": {
+       "title": "Our Numbers",
+       "capacity": "70,000+ Daily Meal",
+       "experience": "50+ Years",
+       "kitchen_space": "Kitchen Space (provide number)"
+     },
+     "clients_trusting_us": {
+       "title": "Clients Trusting Us",
+       "clients": [
+         "Sudan Pilgrims",
+         "Islamic Iranian Republic Pilgrims",
+         "Umm Al Qura University",
+         "Abdul Latif Jameel",
+         "Saudi Railway",
+         "Saudi Logistic Company",
+         "Alsalam Royal Palace",
+         "Al Safa Royal Palace"
+       ]
+     },
+     "accreditations_and_certificates": {
+       "title": "Our Accreditations and Certificates",
+       "certificates": []
+     },
+     "where_are_we": {
+       "title": "Where Are We?",
+       "locations": [
+         "Makkah",
+         "Madinah",
+         "Jeddah",
+         "Western Region"
+       ]
+     }
+   },
+   "about_us_page": {
+     "our_history": {
+       "title": " History",
+       "content": "Built on the 50-year legacy of Abu Al-Jadayel, Abu Al-Jadayel for Food Industries is a promising institute eager for continued success. Inspired by the experience and expertise of our parent company, while drawing a new road specifically focused on serving the needs of the food industrial sector."
+     },
+     "vision_and_mission": {
+       "vision": {
+         "title": "Our Vision",
+         "content": "We aspire to be the global leader in providing safe, healthy, and delicious food and beverages. We achieve this by: ",
+         "list": [
+          " Maximizing the standards through quality.",
+          "Encouraging healthy living with diverse, nutritious options for all.",
+          "Promoting sustainability for a thriving food system and a healthy planet."
+        ]
+        },
+       "mission": {
+         "title": "Our Mission",
+         "content": "We are passionate about crafting high-quality food and beverage experiences that elevate every occasion. We relentlessly source the finest ingredients, offer diverse selections, and follow sustainable practices."
+       },
+       "plan": {
+         "title": "Our Plan",
+         "content": "We're strategically establishing a network of kitchens and factories throughout Saudi Arabia. This will ensure faster delivery times and wider product availability. With increased infrastructure, we'll be able to offer an even wider range of food options, satisfying all tastes and dietary needs."
+       }
+     },
+     "why_abul_jadayel": {
+       "title": "Why Abul Jadayel?",
+       "experience": "50 years of experience ",
+       "content_experience": "Worked with Royal Palaces, Airlines, Universities, ministries and Pilgrims, This experience pushes us to deliver the same high quality in every occasion, and in every circumstance.",
+       "exceed_standards": "We Exceed The Standards        ",
+       "content_exceed_standards": "We don’t negotiate quality! We follow and exceed the standards of the food industry to deliver safe, delicious and nutritious food.",
+       "Innovating" : "Always Innovating",
+        "content_Innovating": "At Abu Al-Jadayel, we're committed to continuous innovation, not just in our catering services but also in exploring new ways to bring exceptional food experiences to everyone"
+      },
+     "end_to_end_services": {
+       "title": "End to End Services: From Farm to Fork",
+      "content":"Our brands offer a comprehensive range of services to ensure exceptional quality at every step:"
+      
+      },
+     "Sourcing_Expertise":"Sourcing Expertise",
+     "content_Sourcing Expertise":" We have established relationships with trusted farms and producers, ensuring access to the finest, ethically sourced raw materials.",
+       "Quality_Control":"Quality Control",
+      "content_Quality_Control":"Our team follows strict quality control measures throughout the entire process, from farm to our facilities. This guarantees the safety and freshness of every ingredient.",
+      "Innovation":"Innovation",
+       "content_Innovation":"Our skilled chefs transform fresh ingredients into delicious and nutritious meals, ready to enjoy.",
+     "always_innovating": {
+       "title": "Always Innovating",
+       "content": "At Abu Al-Jadayel, we're committed to continuous innovation, not just in our catering services but also in exploring new ways to bring exceptional food experiences to everyone.",
+       "vending_machine_photo": "(vending machine photo)"
+     },
+     "customized_services": {
+       "title": "Customized Services Based On Your Needs",
+       "content": "We Respect the Gift of Food. At Abu Al-Jadayel, we deeply appreciate the value and bounty of food. That's why we are committed to minimizing food waste through solutions tailored precisely to your needs. We provide the perfect amount, no more, no less."
+     },
+     "services_and_solutions": {
+       "title": "Our Services and Solutions",
+       "hajj_and_umrah_catering": {
+         "title": "Serving the Holy Journey: Dedicated Hajj and Umrah Catering",
+         "content": "Abu Al-Jadayel proudly partners with the Mutawafe for Pilgrims from Non-Arab African Countries Company, a leader in pilgrim services. Together, we ensure a smooth and nourishing experience for pilgrims performing Hajj and Umrah. Our extensive experience allows us to cater to a diverse range of pilgrims, daily providing over 70,000 meals for those from countries including: Sudan, Turkey, Islamic Republic of Iran, Uzbekistan, Afghanistan, Iraq, Indonesia, Morocco. We understand the specific needs of pilgrims during these sacred journeys. We offer culturally sensitive and delicious meals, ensuring a worry-free experience for pilgrims to focus on their spiritual journey."
+       },
+       "sterilized_meals": {
+         "title": "Convenient & Long-Lasting Sterilized Meals",
+         "content": "At Abu Al-Jadayel, we understand the importance of convenience and safety. That's why we offer a range of delicious and nutritious sterilized meals, ready to enjoy whenever you need them. Ready to Eat, Long Shelf Life, Safe from Contamination."
+       },
+       "corporate_catering": {
+         "title": "Corporate Catering Solutions",
+         "content": "At Abu Al-Jadayel, we understand the importance of a well-nourished workforce. Our corporate catering services are designed to keep your team energized and focused throughout the day. Delicious and nutritious meals help employees maintain their energy levels, leading to increased focus and productivity. We offer convenient on-site catering, eliminating time spent searching for lunch options. From conferences to celebrations, we can manage all aspects of your corporate events, ensuring a seamless experience."
+       },
+       "healthcare_meals": {
+         "title": "Specialized Healthcare Meals",
+         "content": "Abu Al-Jadayel understands the role of food on patients’ road to recovery. We offer specialized healthcare catering services, following physician and dietician instructions to provide patients with the appropriate meals for their specific dietary requirements."
+       },
+       "school_meals": {
+         "title": "Tailored School and University Meals",
+         "content": "At Abu Al-Jadayel, we recognize the importance of healthy and delicious meals for students of all ages. We offer comprehensive catering solutions for schools and universities. We had a successful partnership with Umm Al Qura university."
+       },
+       "nourishing_journey": {
+         "title": "Nourishing Every Journey: inflight, shipboard, and road trips",
+         "content": "Make this travel experience memorable with our services."
+       },
+       "other_services": {
+         "title": "Other Services:",
+         "content": [
+           "International Catering services",
+           "Supplying Military and Security Sectors",
+           "Catering through our central kitchens",
+           "Quality Assurance",
+           "Pick up and delivery",
+           "Water Supply"
+         ]
+       }
+     }
+   },
+   "careers_page": {
+     "title": "Want to be a part of our family?",
+     "intro": " Fill in the form to inform you once we have vacancies",
+     "form": {
+       "name": "Name",
+       "email": "Email",
+       "phone_number": "Phone Number",
+       "position": "Position",
+       "experiences": "Experiences"
+     }
+   },
+   "contact_us_page": {
+     "title": "Contact Us",
+     "phone": "Phone:",
+     "email": "Email:",
+     "whatsapp": "Whatsapp:",
+     "social_media": "Social media clickable icons",
+     "contact_form": {
+       "intro": "Or let us reach you:",
+       "name": "Name",
+       "company_name": "Company Name",
+       "phone_number": "Phone Number:",
+       "email": "Email",
+       "contact_me_button": "Contact Me"
+     }
+   }
+ }
+ 

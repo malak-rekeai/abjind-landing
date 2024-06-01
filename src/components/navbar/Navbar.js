@@ -31,6 +31,7 @@ export const Navbar = () => {
       },
       { threshold: 0.1 }
     );
+    
 
     if (scopeRef.current) {
       observer.observe(scopeRef.current);
